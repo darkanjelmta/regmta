@@ -1,0 +1,9 @@
+C:\Users\TTT\Desktop\REGMTA\bin\Release\REGMTA.exe.config
+C:\Users\TTT\Desktop\REGMTA\bin\Release\REGMTA.exe
+C:\Users\TTT\Desktop\REGMTA\bin\Release\REGMTA.pdb
+C:\Users\TTT\Desktop\REGMTA\obj\Release\REGMTA.Form1.resources
+C:\Users\TTT\Desktop\REGMTA\obj\Release\REGMTA.Properties.Resources.resources
+C:\Users\TTT\Desktop\REGMTA\obj\Release\REGMTA.csproj.GenerateResource.cache
+C:\Users\TTT\Desktop\REGMTA\obj\Release\REGMTA.csproj.CoreCompileInputs.cache
+C:\Users\TTT\Desktop\REGMTA\obj\Release\REGMTA.exe
+C:\Users\TTT\Desktop\REGMTA\obj\Release\REGMTA.pdb
